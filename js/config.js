@@ -1,0 +1,1 @@
+var endPoint='http://localhost/loan-base-api/';
